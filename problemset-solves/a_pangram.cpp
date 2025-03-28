@@ -1,14 +1,13 @@
+// https://codeforces.com/problemset/problem/520/A
 #include <iostream>
 using namespace std;
-
 int main() 
 {
     int n, Count = 0;
     cin >> n;
     string x;
     cin >> x;
-
-    int letters[26] = {0};  
+    char alp[27]="abcdefghijklmnopqrstuvwxyz";
 
     for (int i = 0; i < n; i++) 
     {
@@ -16,13 +15,21 @@ int main()
         {
             x[i] = x[i]+32; 
         }
-        int index = x[i]-'a';
-    
-        if (letters[index] == 0) 
+    }
+    int j=0;
+    while(alp[j]!='\0')
+    {
+        int k=0;
+        while(x[k]!='\0')
         {
-            letters[index] = 1; 
-            Count++; 
+            if(x[k]==alp[j])
+            {
+                Count++;
+                break;
+            }
+            k++;
         }
+        j++;
     }
 
     if (Count == 26) 
