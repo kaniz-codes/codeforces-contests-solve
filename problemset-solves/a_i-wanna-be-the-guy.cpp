@@ -35,9 +35,9 @@ int main()
     }
 
     // Level check korbe
-    for (int level = 1; level <= n; level++)
+    for (int level =1; level <=n; level++)
     {
-        for (int i = 0; i < p+q; i++)
+        for (int i=0; i<p+q; i++)
         {
             if (merged[i] == level)
             {
