@@ -13,6 +13,8 @@
         "ostream": "cpp",
         "string": "cpp",
         "algorithm": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "iomanip": "cpp",
+        "xstring": "cpp"
     }
 }
