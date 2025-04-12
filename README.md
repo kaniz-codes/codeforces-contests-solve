@@ -1,6 +1,6 @@
 # 📌 Competitive Programming Progress Tracker
 
-Welcome to my **Competitive Programming (CP) Journey!** 🚀 This repository tracks my progress, problem-solving techniques, and key learnings from each challenge I tackle.
+Welcome to my **Competitive Programming (CP) Journey!**  This repository tracks my progress, problem-solving techniques, and key learnings from each challenge.
 
 ## 📖 About This Repository
 This repo serves as a log of my CP practice, where I document:
@@ -84,12 +84,12 @@ This repo serves as a log of my CP practice, where I document:
 ---
 
 ## 🧩 Problemset Solves
-###  🧱 Problemset 1 – Practice & Fundamentals
+### Problemset 1 – Practice & Fundamentals
 
 <details>
 <summary>📘 Sheet 01: Datatypes & Conditions</summary>
 </br>
-This sheet contains beginner to intermediate level problems focused on data types and conditional statements in C++. Each problem is designed to strengthen foundational understanding of input/output, arithmetic operations, conditional logic and character handling.
+This sheet contains beginner to intermediate level problems focused on data types and conditional statements.
 
 ---
 | #   | Problem Name                              | Difficulty | Key Learnings                                   | Solution |
