@@ -1,10 +1,6 @@
 #  Competitive Programming Progress Tracker
 
-<<<<<<< HEAD
-Welcome to my **Competitive Programming (CP) Journey!**  This repository tracks my progress, problem-solving techniques, and key learnings from each challenge.
-=======
 Welcome to my **Competitive Programming (CP) Journey!**  This repository tracks my progress, problem-solving ways and key learnings from each challenge I tackle.
->>>>>>> 73e7ca640163806d55c7aa2e01e810562619bbf7
 
 ##  About This Repository
 This repo serves as a log of my CP practice, where I document:
