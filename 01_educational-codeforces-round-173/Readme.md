@@ -3,20 +3,20 @@
 🔗 [Problem Link](https://codeforces.com/contest/2043/problem/B)
 🔗 [Solution Link](https://github.com/kaniz-codes/codeforces-contests-solve/blob/main/01_educational-codeforces-round-173/B_digits.cpp)
 
-## 📝 Problem Summary
+##  Problem Summary
 Artem writes the digit `d` on the board exactly `n!` times, forming a large number made up of only digit `d`.  
 The task is to find which **odd digits** from `1 to 9` divide this number.
 
-## 💡 Approach
+##  Approach
 - Find the result of `n!`.
 - Check if the result of `n! % odd number == 0`
 - Print the **odd numbers**
 
-## 🔍 Code Explanation
+##  Code Explanation
 - A `factorial(n)`function to calculate `n!`.
 - A `solve(n, d)` function to check the divisibility and print output. 
 
-## 🧪 Test Cases Explained
+##  Test Cases Explained
 
 ### Test Case 2: `7 1`
 
