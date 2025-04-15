@@ -9,7 +9,7 @@ The task is to find which **odd digits** from `1 to 9` divide this number.
 
 ##  Approach
 - Find the result of `n!`.
-- Check if the result of `n! % odd number == 0`
+- Check if the result of `n! % odd number == 0` 
 - Print the **odd numbers**
 
 ##  Code Explanation
