@@ -11,9 +11,7 @@ int main()
         cin >> N;
         string K;
         cin>> K;
-
         int count=0;
-
         for(int i=0; i< N; i++)
         {
             string temp = K;
