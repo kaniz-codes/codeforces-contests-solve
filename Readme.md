@@ -26,7 +26,7 @@ This repo logs my problem solving progress.
 | 5   | Codeforces Round 1016 (Div. 3)            | Easy       | A, C    | B       | 777    | 08-04-2025 |
 | 6   | Codeforces Round 1017 (Div. 4)            | Easy       | A       | D       | 845    | 13-04-2025 |
 | 7   | Codeforces Round 1019 (Div. 2)            | Medium     | A       | B       | 898    | 21-04-2025 |
-| 8   | Codeforces Round 1020 (Div. 3)            | Easy       | A       | B       | —      | 24-04-2025 |
+| 8   | Codeforces Round 1020 (Div. 3)            | Easy       | A       | B       | 899    | 24-04-2025 |
 
 ---
 
