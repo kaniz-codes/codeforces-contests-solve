@@ -2,7 +2,7 @@
 
 Welcome to my **CP Journey!**  
 This repo logs my problem solving progress.
-
+Start From: **27 March 2025 - 30 April 2025**
 ---
 
 ## 📑 Table of Contents
@@ -11,7 +11,6 @@ This repo logs my problem solving progress.
   - [Sheet 01: Datatypes & Conditions](#sheet-01-datatypes--conditions)
   - [Contest 1](#contest-01)
   - [Sheet 02: Loops](#sheet-02-loops)
-
 
 ---
 
