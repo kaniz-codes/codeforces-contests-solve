@@ -1,8 +1,14 @@
 # 🚀 My CP Progress Tracker
 
-Welcome to my **CP Journey!**  
+Welcome to my  **CP Journey!**  
 This repo logs my problem solving progress.
+<<<<<<< HEAD
 Start From: **27 March 2025 - 1 MAY 2025**
+=======
+
+- Start From: **27 March 2025 - 30 April 2025**
+
+>>>>>>> b11eee0f8af495fb72b6f5dc4147bd1ce8b7f434
 ---
 
 ## 📑 Table of Contents
