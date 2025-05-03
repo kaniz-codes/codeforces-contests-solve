@@ -3,7 +3,7 @@
 Welcome to my  **CP Journey!**  
 This repo logs my problem solving progress.
 
-- Start From: **27 March 2025 - 1 MAY 2025**
+- Start From: **27 March 2025 - 4 MAY 2025**
 
 ---
 
