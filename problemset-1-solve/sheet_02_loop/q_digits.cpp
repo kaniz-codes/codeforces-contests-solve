@@ -1,24 +1,25 @@
 #include <iostream>
 using namespace std;
 
-int main() 
-{
-    int t;
-    cin >> t;
-    while (t--)
-    {
-        int arr[70];
-    for(int i=0; i>=0; i--)
-    {
-        int j=i;
-        while(j--)
-        {
-           cout << '*';
+int main() {
+    int T;
+    cin >> T;
+
+    while (T--) {
+        int N;
+        cin >> N;
+
+        if (N == 0) {
+            cout << "0" << endl;
+            continue;
+        }
+
+        while (N > 0) {
+            cout << N % 10 << " ";
+            N /= 10;
         }
         cout << endl;
     }
-    }
 
-    
     return 0;
 }
