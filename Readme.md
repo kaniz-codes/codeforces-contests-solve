@@ -3,18 +3,30 @@
 Welcome to my  **CP Journey!**  
 This repo logs my problem solving progress.
 
-- Start From: **27 March 2025 - 8 MAY 2025**
+- Start From: **27 March 2025 - 11 MAY 2025**
 - Max Rating: **Newbie, 910**
 ---
 
 ## 📑 Table of Contents
+
 - [🏆 Contests](#-contests)
 - [📚 Practice Sets](#-practice-sets-1)
   - [Sheet 01: Datatypes & Conditions](#sheet-01-datatypes--conditions)
   - [Contest 1](#contest-01)
   - [Sheet 02: Loops](#sheet-02-loops)
+- [🏅 Achievement Diary](#-achievement-diary)
 
 ---
+
+# 🏅 Achievement Diary
+
+- **29 Mar 2025** – First rating achieved (369)
+- **26 Apr 2025** – Crossed 900 (Newbie: 910)
+- **28 Apr 2025** – Completed 10 Rated Contests
+- **10 May 2025** – 100 Problems Solved
+
+--- 
+
 
 # 🏆 Contests Progress
 
@@ -32,4 +44,3 @@ This repo logs my problem solving progress.
 | 10  | Edu CF Round 178 (Div. 2)           | Hard       | A      | C       | 899    | -11      | 28-04-2025 |
 
 ---
-
