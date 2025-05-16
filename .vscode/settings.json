@@ -11,6 +11,7 @@
     "files.associations": {
         "iostream": "cpp",
         "exception": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "xstring": "cpp"
     }
 }
