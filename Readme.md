@@ -24,7 +24,7 @@ This repo logs my problem solving progress.
 - **26 Apr 2025** – Crossed 900 (Newbie: 910)
 - **28 Apr 2025** – Completed 10 Rated Contests
 - **10 May 2025** – 100 Problems Solved
-
+- **18 May 2025** – 100 Hours of coding
 --- 
 
 
