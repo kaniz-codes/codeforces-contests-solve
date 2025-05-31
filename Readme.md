@@ -3,7 +3,7 @@
 Welcome to my  **CP Journey!**  
 This repo logs my problem solving progress.
 
-- Start From: **27 March 2025 - 24 MAY 2025**
+- Start From: **27 March 2025 - 31 MAY 2025**
 - Max Rating: **Newbie, 910**
 ---
 
